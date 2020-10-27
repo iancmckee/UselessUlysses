@@ -1,1 +1,1 @@
-worker: python WordOfTheDay.py
+worker: python UselessUlysses.py
